@@ -16,7 +16,11 @@
         <li>Watching movies.</li> 
         <li>Spend time with family and friends.</li> 
     </ul> 
- 
+ 	<ul> 
+        	<li>Reading novels.</li> 
+        	<li>Watching movies.</li> 
+       	 	<li>Spend time with family and friends.</li> 
+   	 </ul> 
     <h2>My Goals</h2> 
  
     <p> 
@@ -24,5 +28,8 @@
     </p> 
 	<h2>My education</h2>
  	<p>Passed A/ls</p>
+	
+	<h2>Contacts</h2>
+	<p>Emai:sadilmaithwarangi@gmail.com</p>
 </body> 
 </html>
