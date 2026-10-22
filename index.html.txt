@@ -22,6 +22,7 @@
     <p> 
          Graduate from university with first class degree.
     </p> 
- 
+	<h2>My education</h2>
+ 	<p>Passed A/ls</p>
 </body> 
 </html>
