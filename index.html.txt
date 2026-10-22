@@ -1,0 +1,27 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>My Personal Website</title> 
+</head> 
+<body> 
+<h1>Sadilma Ithwarangi</h1> 
+    <p> 
+        I'm Sadilma Ithwarngi.I'm 23 years old.My hometown is Matara.And I am a undergraduate in Unversity of Ruhuna, Faculty of Science.My family have 5 members including me.I have a older sister and a younger brother.
+    </p> 
+ 
+    <h2>My Interests</h2> 
+ 
+    <ul> 
+        <li>Reading novels.</li> 
+        <li>Watching movies.</li> 
+        <li>Spend time with family and friends.</li> 
+    </ul> 
+ 
+    <h2>My Goals</h2> 
+ 
+    <p> 
+         Graduate from university with first class degree.
+    </p> 
+ 
+</body> 
+</html>
